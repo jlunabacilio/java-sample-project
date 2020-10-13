@@ -1,0 +1,18 @@
+package packtest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Test1 {
+	
+	@Test
+    public void testNothing() {
+    }
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
